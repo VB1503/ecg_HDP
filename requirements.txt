@@ -7,3 +7,4 @@ matplotlib
 natsort
 streamlit
 gunicorn
+uvicorn
