@@ -93,6 +93,3 @@ if selected_page == "Home":
     main()
 elif selected_page == "About":
     about()
-
-if __name__ == "__main__":
-    main()
