@@ -1,8 +1,0 @@
-# render.yaml
-
-services:
-  - name: web
-    env: python=3.12.1
-    build_command_pre: pip install --upgrade pip
-    build_command: pip install -r requirements.txt
-    start_command: streamlit run app.py
