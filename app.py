@@ -64,7 +64,7 @@ def about():
     batch_members = [
         ("GOKULA KRISHNAN B ", "513420104008"),
         ("SARAN S", "513420103009"),
-        ("SJAYANTH G", "513420104703"),
+        ("JAYANTH G", "513420104703"),
         ("BARANIDHARAN T", "513420104704")
     ]
     
@@ -93,3 +93,6 @@ if selected_page == "Home":
     main()
 elif selected_page == "About":
     about()
+
+if __name__ == "__main__":
+    main()
