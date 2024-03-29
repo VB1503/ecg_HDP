@@ -1,4 +1,4 @@
-# CardioCareML: Predicting Cardiovascular Diseases with EGC
+# CardioCareML: Predicting Cardiovascular Diseases with ECG Image
 
 Welcome to CardioCare, a project aimed at predicting cardiovascular diseases using machine learning techniques. With the power of advanced algorithms and health data analysis, CardioCare provides insights into potential cardiovascular risks based on various health parameters.
 
